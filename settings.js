@@ -31,7 +31,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': 'sonelstore',
 }
 
 
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['201507384088'] //ur owner number
+global.ownername = "Gaara Setyawan" //ur owner name
+global.ytname = "YT: Gaaraofc" //ur yt chanel name
+global.socialm = "Insta: gaaraxploite" //ur github or insta name
+global.location = "Indonesia, Wonosobo,Jateng" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.owner = ['201507384088']
+global.ownertag = '201507384088' //ur tag number
+global.botname = 'RenaBot MD' //ur bot name
+global.linkz = "https://wa.me/201507384088" //your theme url which will be displayed on whatsapp
+global.websitex = "https://instagram.com/gaara_xploite" //ur website to be displayed
+global.botscript = 'https://github.com/gaaradel' //script link
+global.reactmoji = "🗿" //ur menu react emoji
+global.themeemoji = "🤡" //ur theme emoji
+global.packname = "Rena Bot\n\n\n\n\n\n\n\n\n\n\nMulti Device" //ur sticker watermark packname
+global.author = "@gaaraxploite" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['201507384088'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -106,18 +106,18 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    admin: '*Lu Admin🤨?*',
+    botAdmin: '*Bot Harus Admin Terlebih Dahulu!*',
+    owner: '*Fitur Khusus Owner Bot!*',
+    group: '*Fitur Hanya Bisa Digunakan Untuk Group*',
+    private: '*Fitur Hanya Bisa Digunakan Di Private Chat*',
+    bot: '*Fitur Khusus Owner Bot*',
+    wait: '*Semdang Diproses...*',
+    linkm: '*Link nya mana?*',
+    error: '*Emrror:v*',
+    endLimit: '*Limit anda telah habis,Limit akan direset setiap jam 12*',
+    ban: '*Lu Kebanned Kontol*',
+    nsfw: '*Fitur NSFW belum diaktifkan, silakan hubungi admin untuk mengaktifkan*',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
