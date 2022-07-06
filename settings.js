@@ -62,14 +62,14 @@ global.location = "Indonesia, Wonosobo,Jateng" //ur location
 
 //bot bomdy 
 global.owner = ['201507384088']
-global.ownertag = '201507384088' //ur tag number
-global.botname = 'RenaBot MD' //ur bot name
+global.ownertag = 'wa.me/201507384088' //ur tag number
+global.botname = 'AraaBot MD' //ur bot name
 global.linkz = "https://wa.me/201507384088" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/gaara_xploite" //ur website to be displayed
 global.botscript = 'https://github.com/gaaradel' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🤡" //ur theme emoji
-global.packname = "Rena Bot\n\n\n\n\n\n\n\n\n\n\nMulti Device" //ur sticker watermark packname
+global.packname = "Araa Bot\n\n\n\n\n\n\n\n\n\n\nMulti Device" //ur sticker watermark packname
 global.author = "@gaaraxploite" //ur sticker watermark author
 
 //Bot theme media
