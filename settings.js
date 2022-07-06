@@ -69,8 +69,8 @@ global.websitex = "https://instagram.com/gaara_xploite" //ur website to be displ
 global.botscript = 'https://github.com/gaaradel' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🤡" //ur theme emoji
-global.packname = "Araa Bot\n\n\n\n\n\n\n\n\n\n\nMulti Device" //ur sticker watermark packname
-global.author = "@gaaraxploite" //ur sticker watermark author
+global.packname = "Araa Bot MD\n\n\n\n\n\n\n\n\n\n\n🤨🤨🤨" //ur sticker watermark packname
+global.author = "gaaraxploite" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
