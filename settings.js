@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201507384088'] //ur owner number
-global.ownername = "Gaara Setyawan" //ur owner name
-global.ytname = "YT: Gaaraofc" //ur yt chanel name
-global.socialm = "Insta: gaaraxploite" //ur github or insta name
-global.location = "Indonesia, Wonosobo,Jateng" //ur location
+global.vcardowner = ['6283839200413'] //ur owner number
+global.ownername = "Fiikrah" //ur owner name
+global.ytname = "YT: XynozBOTZ" //ur yt chanel name
+global.socialm = "Insta: fiikrah26_" //ur github or insta name
+global.location = "Indonesia, Medan" //ur location
 
 //bot bomdy 
-global.owner = ['201507384088']
-global.ownertag = 'wa.me/201507384088' //ur tag number
-global.botname = 'AraaBot MD' //ur bot name
-global.linkz = "https://wa.me/201507384088" //your theme url which will be displayed on whatsapp
-global.websitex = "https://instagram.com/gaara_xploite" //ur website to be displayed
-global.botscript = 'https://github.com/gaaradel' //script link
+global.owner = ['6283839200413']
+global.ownertag = 'wa.me/6283839200413' //ur tag number
+global.botname = 'XynozBOT' //ur bot name
+global.linkz = "https://wa.me/6283839200413" //your theme url which will be displayed on whatsapp
+global.websitex = "https://instagram.com/fiikrah26_" //ur website to be displayed
+global.botscript = 'https://github.com/carisendiridek' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🤡" //ur theme emoji
-global.packname = "Araa Bot MD\n\n\n\n\n\n\n\n\n\n\n@gaara_xploite" //ur sticker watermark packname
-global.author = "😼😼😼😼" //ur sticker watermark author
+global.packname = "XynozBOTZ\n\n\n\n\n\n\n\n\n\n\n@gaara_xploite" //ur sticker watermark packname
+global.author = "XynozBOTZ🐻🐻" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201507384088'] //ur premium numbers
+global.premium = ['6283839200413'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,9 +105,9 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: '*Lu Admin🤨?*',
-    botAdmin: '*Bot Harus Admin Terlebih Dahulu!*',
+    success: 'Done Ngabb',
+    admin: '*Fitur Khusus Admin*',
+    botAdmin: '*Bot Harus Menjadi Admin Terlebih Dahulu!*',
     owner: '*Fitur Khusus Owner Bot!*',
     group: '*Fitur Hanya Bisa Digunakan Untuk Group*',
     private: '*Fitur Hanya Bisa Digunakan Di Private Chat*',
@@ -122,7 +122,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 10,
     monayawal: 1000
 }
    global.rpg = {
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/theme/20220714_043642.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
