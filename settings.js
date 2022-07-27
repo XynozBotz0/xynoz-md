@@ -55,9 +55,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6283839200413'] //ur owner number
-global.ownername = "Fiikrah" //ur owner name
+global.ownername = "Xynoz" //ur owner name
 global.ytname = "YT: XynozBOTZ" //ur yt chanel name
-global.socialm = "Insta: fiikrah26_" //ur github or insta name
+global.socialm = "Insta: xynozjb" //ur github or insta name
 global.location = "Indonesia, Medan" //ur location
 
 //bot bomdy 
@@ -65,7 +65,7 @@ global.owner = ['6283839200413']
 global.ownertag = 'wa.me/6283839200413' //ur tag number
 global.botname = 'XynozBOT' //ur bot name
 global.linkz = "https://wa.me/6283839200413" //your theme url which will be displayed on whatsapp
-global.websitex = "https://instagram.com/fiikrah26_" //ur website to be displayed
+global.websitex = "https://instagram.com/xynozjb" //ur website to be displayed
 global.botscript = 'https://github.com/carisendiridek' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🤡" //ur theme emoji
@@ -107,7 +107,7 @@ global.sp = '⭔'
 global.mess = {
     success: 'Done Ngabb',
     admin: '*Fitur Khusus Admin*',
-    botAdmin: '*Bot Harus Menjadi Admin Terlebih Dahulu!*',
+    botAdmin: '*Bot Harus Menjadi Admin!*',
     owner: '*Fitur Khusus Owner Bot!*',
     group: '*Fitur Hanya Bisa Digunakan Untuk Group*',
     private: '*Fitur Hanya Bisa Digunakan Di Private Chat*',
