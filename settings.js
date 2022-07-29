@@ -55,21 +55,21 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6283839200413'] //ur owner number
-global.ownername = "Xynoz" //ur owner name
-global.ytname = "YT: XynozBOTZ" //ur yt chanel name
-global.socialm = "Insta: xynozjb" //ur github or insta name
-global.location = "Indonesia, Medan" //ur location
+global.ownername = "Hanz Store" //ur owner name
+global.ytname = "YT: CacaBOTZ" //ur yt chanel name
+global.socialm = "Insta: KasStore" //ur github or insta name
+global.location = "Indonesia, Depok" //ur location
 
 //bot bomdy 
-global.owner = ['6283839200413']
-global.ownertag = 'wa.me/6283839200413' //ur tag number
-global.botname = 'XynozBOT' //ur bot name
-global.linkz = "https://wa.me/6283839200413" //your theme url which will be displayed on whatsapp
-global.websitex = "https://instagram.com/xynozjb" //ur website to be displayed
+global.owner = ['6281525872199']
+global.ownertag = 'wa.me/6281525872199' //ur tag number
+global.botname = 'CacaBOT' //ur bot name
+global.linkz = "https://wa.me/6281525872199" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/DSJqfuttJwWBRH8EXj73v3" //ur website to be displayed
 global.botscript = 'https://github.com/carisendiridek' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🤡" //ur theme emoji
-global.packname = "XynozBOTZ\n\n\n\n\n\n\n\n\n\n\n@gaara_xploite" //ur sticker watermark packname
+global.packname = "Caca Botz\n\n\n\n\n\n\n\n\n\n\n@xynozjb" //ur sticker watermark packname
 global.author = "XynozBOTZ🐻🐻" //ur sticker watermark author
 
 //Bot theme media
